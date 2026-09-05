@@ -328,8 +328,6 @@ Sales-Analytics-Dashboard/
 ├── Dataset/
 │   └── Sales_Analytics_Dashboard_Dataset.xlsx
 │
-├── Tableau/
-│   └── Sales_Analytics_Dashboard.twbx
 │
 └── Images/
     └── sales_analytics_dashboard.png
